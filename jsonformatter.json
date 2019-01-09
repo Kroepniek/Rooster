@@ -1,0 +1,172 @@
+﻿{
+  "Maandag": [
+    {
+      "Vak": "Rekenen",
+      "Code": "RIHA",
+      "Locatie": "K1.60",
+      "Van": "9:45",
+      "Tot": "10:45",
+      "Leraar": "H. van Riet"
+    },
+    {
+      "Vak": "Digitale Vaardigheden",
+      "Code": "DRJO",
+      "Locatie": "K1.42a",
+      "Van": "11:00",
+      "Tot": "12:30",
+      "Leraar": "J. van den Dries"
+    },
+    {
+      "Vak": "Studieloopbaanbegeleiding",
+      "Code": "NOPE",
+      "Locatie": "K1.55",
+      "Van": "13:00",
+      "Tot": "14:30",
+      "Leraar": "P. Nöcker"
+    }
+  ],
+  "Dinsdag": [
+    {
+      "Vak": "Applicatie Programmeren",
+      "Code": "SPTH",
+      "Locatie": "K1.42b",
+      "Van": "9:15",
+      "Tot": "10:45",
+      "Leraar": "T. Sprong"
+    },
+    {
+      "Vak": "Applicatie Programmeren",
+      "Code": "SPTH",
+      "Locatie": "K1.42b",
+      "Van": "11:00",
+      "Tot": "12:00",
+      "Leraar": "T. Sprong"
+    },
+    {
+      "Vak": "Web Development - Front End",
+      "Code": "POBE",
+      "Locatie": "K1.42b",
+      "Van": "12:00",
+      "Tot": "12:30",
+      "Leraar": "B. Porobic"
+    },
+    {
+      "Vak": "Web Development - Front End",
+      "Code": "POBE",
+      "Locatie": "K1.42b",
+      "Van": "13:00",
+      "Tot": "14:00",
+      "Leraar": "B. Porobic"
+    },
+    {
+      "Vak": "Studieloopbaanbegeleiding",
+      "Code": "NOPE",
+      "Locatie": "K1.61",
+      "Van": "14:00",
+      "Tot": "14:30",
+      "Leraar": "P. Nöcker"
+    },
+    {
+      "Vak": "Studieloopbaanbegeleiding",
+      "Code": "NOPE",
+      "Locatie": "K1.61",
+      "Van": "14:45",
+      "Tot": "15:45",
+      "Leraar": "P. Nöcker"
+    },
+    {
+      "Vak": "Engels",
+      "Code": "STJA",
+      "Locatie": "K1.50b",
+      "Van": "15:45",
+      "Tot": "16:45",
+      "Leraar": "J. Steenkamer"
+    }
+  ],
+  "Woesdag": [
+    {
+      "Vak": "Web Development - Back End",
+      "Code": "NOPE",
+      "Locatie": "K1.42a",
+      "Van": "9:15",
+      "Tot": "10:45",
+      "Leraar": "P. Nöcker"
+    },
+    {
+      "Vak": "Cisco",
+      "Code": "BEPE",
+      "Locatie": "K1.54",
+      "Van": "11:00",
+      "Tot": "12:30",
+      "Leraar": "P. Bessems"
+    },
+    {
+      "Vak": "Embedded Systems",
+      "Code": "DORI",
+      "Locatie": "K1.44",
+      "Van": "13:00",
+      "Tot": "14:30",
+      "Leraar": "R. van Dooren"
+    },
+    {
+      "Vak": "Embedded Systems",
+      "Code": "DORI",
+      "Locatie": "K1.44",
+      "Van": "14:45",
+      "Tot": "15:15",
+      "Leraar": "R. van Dooren"
+    },
+    {
+      "Vak": "Burgerschap",
+      "Code": "FOIR",
+      "Locatie": "K1.54",
+      "Van": "15:15",
+      "Tot": "16:45",
+      "Leraar": "I. Foederer"
+    }
+  ],
+  "Donderdag": [
+    {
+      "Vak": "Office",
+      "Code": "POBE",
+      "Locatie": "K1.60",
+      "Van": "8:45",
+      "Tot": "10:15",
+      "Leraar": "B. Porobic"
+    },
+    {
+      "Vak": "Nederlands",
+      "Code": "JAHA",
+      "Locatie": "K1.50b",
+      "Van": "10:15",
+      "Tot": "10:45",
+      "Leraar": "H. Janssen"
+    },
+    {
+      "Vak": "Nederlands",
+      "Code": "JAHA",
+      "Locatie": "K1.50b",
+      "Van": "11:00",
+      "Tot": "12:00",
+      "Leraar": "H. Janssen"
+    }
+  ],
+  "Vrijdag": [
+    {
+      "Vak": "Database",
+      "Code": "DATB",
+      "Locatie": "K1.46b",
+      "Van": "9:15",
+      "Tot": "10:45",
+      "Leraar": "C. Loomans"
+    },
+    {
+      "Vak": "It Essentials",
+      "Code": "WIWI",
+      "Locatie": "K1.55",
+      "Van": "11:00",
+      "Tot": "12:30",
+      "Leraar": "W. de Wit"
+    }
+  ]
+}
